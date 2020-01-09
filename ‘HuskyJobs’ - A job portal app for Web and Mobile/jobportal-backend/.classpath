@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="jobportal-backend/src/main/java"/>
+	<classpathentry kind="lib" path="jobportal-backend/target/jobportal-backend-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="jobportal-backend/target/classes"/>
+</classpath>
